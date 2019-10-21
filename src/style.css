@@ -1,0 +1,19 @@
+.todo-item{
+    padding-right: 10px;
+    font-size: 20px;
+    color: gray;
+}
+button{
+    background-color:black;
+    color:cornflowerblue;
+    height: 30px;
+    width: 60px;
+}
+input{
+    font-size: 30px;
+    height: 40px;
+    background-color: bisque;  
+}
+.addtodo-component{
+    padding-bottom: 30px;
+}
